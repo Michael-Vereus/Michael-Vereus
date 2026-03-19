@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael Vereus Limantara 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="600">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="800">
 </p>
 
 # 💫 About Me
