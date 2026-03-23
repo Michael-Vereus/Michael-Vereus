@@ -7,6 +7,7 @@
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Michael-Vereus&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false" />
+  <br></br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Michael-Vereus&theme=blue_navy&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Vereus&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </p>
